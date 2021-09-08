@@ -3,13 +3,18 @@
 ## DEBER CAPITULOS 23 y 24
 1. OBJETIVOS
 * 1.1. OBJETIVO GENERAL
-* Se aspira que al finalizar el deber que se adquiera y comprenda conocimientos de CA, Elementos R, L y C 
-* Adicionalmente se debe ser capaz de establecer las relaciones o interconexiones correspondientes entre los fundamentos teóricos establecidos en el curso y las aplicaciones en sus respectivas disciplinas.
+
+Se aspira que al finalizar el deber que se adquiera conocimientos de sistemas de tres fases y se comprenda conocimientos Transformadores y circuitos acoplados
+ 
+Adicionalmente se debe ser capaz de establecer las relaciones o interconexiones correspondientes entre los fundamentos teóricos establecidos en el curso y las aplicaciones en sus respectivas disciplinas.
+
 
 * 1.2. OBJETIVOS ESPECÍFICOS
-  *	Introducir los concepto de CA, Elementos R, L y C 
-  * Analizar circuitos donde se use voltaje y corriente CA
-  *	Describir analítica y gráficamente el comportamiento de un circuito CA
+
+  *	Introducir los concepto de tres fases
+  *	Analizar circuitos donde se use transformadores y circuitos acoplados
+  *	Describir analítica y gráficamente el comportamiento de la forma de onda de voltaje y corriente
+
 
 2. MARCO TEÓRICO (RESUMEN)
 
