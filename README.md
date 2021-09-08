@@ -57,7 +57,7 @@ Resolución del capitulo 24 (ejercicios impares)
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=eIXI_gRFjg8
 
 5. CONCLUSIONES
 
