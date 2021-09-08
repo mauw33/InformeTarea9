@@ -18,15 +18,41 @@ Adicionalmente se debe ser capaz de establecer las relaciones o interconexiones 
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](TAREA9/1.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Resolución del capitulo 23 (ejercicios impares)
 
-
+![Screenshot](TAREA9/2.png)
+![Screenshot](TAREA9/3.png)
+![Screenshot](TAREA9/4.png)
+![Screenshot](TAREA9/5.png)
+![Screenshot](TAREA9/7.png)
+![Screenshot](TAREA9/8.png)
+![Screenshot](TAREA9/9.png)
+![Screenshot](TAREA9/6.png)
 
 Resolución del capitulo 24 (ejercicios impares)
+
+![Screenshot](TAREA9/10.png)
+![Screenshot](TAREA9/11.png)
+![Screenshot](TAREA9/12.png)
+![Screenshot](TAREA9/13.png)
+![Screenshot](TAREA9/14.png)
+![Screenshot](TAREA9/15.png)
+![Screenshot](TAREA9/16.png)
+![Screenshot](TAREA9/17.png)
+![Screenshot](TAREA9/18.png)
+![Screenshot](TAREA9/19.png)
+![Screenshot](TAREA9/20.png)
+![Screenshot](TAREA9/21.png)
+![Screenshot](TAREA9/22.png)
+![Screenshot](TAREA9/23.png)
+![Screenshot](TAREA9/24.png)
+![Screenshot](TAREA9/25.png)
+![Screenshot](TAREA9/26.png)
+![Screenshot](TAREA9/27.png)
 
 
 4. VIDEO
